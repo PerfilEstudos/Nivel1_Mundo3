@@ -61,7 +61,6 @@ public class Main {
                     
                     break;
                     
-                    1
                 case 2:
                     System.out.println("F - Pessoa Fisica");
                     System.out.println("J - Pessoa Juridica:");
